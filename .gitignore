@@ -1,0 +1,12 @@
+
+node_modules/
+
+# Local development environment
+.env.local
+
+# Environment file
+.env
+
+# Default out file
+database.json
+

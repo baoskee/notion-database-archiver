@@ -1,0 +1,17 @@
+{
+  "name": "notion-archiver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prettier:write": "prettier --write ."
+  },
+  "dependencies": {
+    "@notionhq/client": "^0.4.13",
+    "dotenv": "^14.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
