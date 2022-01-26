@@ -21,7 +21,6 @@ That assumption may not hold for huge databases.
 
 # Contributing Todos
 
-* `deserializeWrite`
-* Better typings
-* `has_next` recursive fetching pages/blocks 
-
+- `deserializeWrite`
+- Better typings
+- `has_next` recursive fetching pages/blocks
